@@ -1,0 +1,46 @@
+-------- Testing GetDeltaValues --------
+Expected Value: (-50, 50, 0)
+Result: (-50, 50, 0)
+
+-------- Testing Calculate Distance --------
+Expected Value: 70.7107
+Result: 70.7107
+
+Expected Value: 259.808
+Result: 259.808
+
+-------- Testing Is Hit Target --------
+Is hit Trial #1
+Result: 0
+Is hit Trial #2
+Result: 0
+Is hit Trial #3
+Result: 0
+Is hit Trial #4
+Result: 0
+Is hit Trial #5
+Result: 1
+
+-------- Testing Compute Damage --------
+Expected Value: 3.2
+Result: 3.2
+
+-------- Testing Damage Target --------
+Expected Value: 56.8
+Result: 56.8
+
+-------- Testing Move towards Target#1 --------
+******* Expected result: 1 
+******* Result: 1
+
+-------- Testing Move towards Target#2 --------
+******* Expected result: 0 
+******* Result: 1
+-------- Testing Atatck Target --------
+Trial #1
+Trial #2
+Trial #3
+-------- Testing Find the closest target --------
+Result: Target #2
+-------- Testing UseRandomPowerOrEquipment --------
+Result: 

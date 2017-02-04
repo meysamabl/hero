@@ -1,0 +1,420 @@
+# depslib dependency file v1.0
+1443928425 source:/home/meysamabl/Desktop/HeroProject/main.cpp
+	<iostream>
+	"Location.h"
+	"Power.h"
+	"Equipment.h"
+	"Super.h"
+	<sstream>
+	<fstream>
+	<string>
+	<thread>
+	<chrono>
+	"TestSuper.h"
+	"TestPower.h"
+	"TestEquipment.h"
+
+1443814533 /home/meysamabl/Desktop/HeroProject/include/Location.h
+	<iostream>
+	<vector>
+	"RandomGeneratorHelper.h"
+
+1443819276 source:/home/meysamabl/Desktop/HeroProject/src/Location.cpp
+	"Location.h"
+
+1443930271 source:/home/meysamabl/Desktop/HeroProject/src/Power.cpp
+	"Power.h"
+	"RandomGeneratorHelper.h"
+
+1443922893 /home/meysamabl/Desktop/HeroProject/include/Power.h
+	<iostream>
+	<vector>
+	<exception>
+	<string>
+	<random>
+
+1443819821 /home/meysamabl/Desktop/HeroProject/include/RandomGeneratorHelper.h
+	<vector>
+	<algorithm>
+	<random>
+
+1443819965 source:/home/meysamabl/Desktop/HeroProject/src/RandomGeneratorHelper.cpp
+	"RandomGeneratorHelper.h"
+
+1443928070 source:/home/meysamabl/Desktop/HeroProject/src/Equipment.cpp
+	"Equipment.h"
+
+1443928085 /home/meysamabl/Desktop/HeroProject/include/Equipment.h
+	<list>
+	<string>
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<iostream>
+
+1443987066 source:/home/meysamabl/Desktop/HeroProject/src/Super.cpp
+	"Super.h"
+
+1443981697 /home/meysamabl/Desktop/HeroProject/include/Super.h
+	<list>
+	<string>
+	<iostream>
+	<cmath>
+	<random>
+	"Power.h"
+	"Equipment.h"
+	"Location.h"
+	"RandomGeneratorHelper.h"
+
+1443987407 source:/home/meysamabl/Desktop/HeroProject/src/TestSuper.cpp
+	"TestSuper.h"
+
+1443987344 /home/meysamabl/Desktop/HeroProject/include/TestSuper.h
+	<random>
+	"Super.h"
+	<fstream>
+
+1443924912 /home/meysamabl/Desktop/HeroProject/include/TestPower.h
+	<random>
+	"Power.h"
+	<fstream>
+
+1443929961 source:/home/meysamabl/Desktop/HeroProject/src/TestPower.cpp
+	"TestPower.h"
+
+1443928974 /home/meysamabl/Desktop/HeroProject/include/TestEquipment.h
+	"Equipment.h"
+
+1443929345 source:/home/meysamabl/Desktop/HeroProject/src/TestEquipment.cpp
+	"TestEquipment.h"
+
+1443990898 source:g:\heroproject\main.cpp
+	<iostream>
+	"Location.h"
+	"Power.h"
+	"Equipment.h"
+	"Super.h"
+	<sstream>
+	<fstream>
+	<string>
+	<thread>
+	<chrono>
+	"TestSuper.h"
+	"TestPower.h"
+	"TestEquipment.h"
+
+1443814533 g:\heroproject\include\location.h
+	<iostream>
+	<vector>
+	"RandomGeneratorHelper.h"
+
+1443991059 g:\heroproject\include\randomgeneratorhelper.h
+	<vector>
+	<algorithm>
+	<random>
+	<sstream>
+
+1443922893 g:\heroproject\include\power.h
+	<iostream>
+	<vector>
+	<exception>
+	<string>
+	<random>
+
+1443928085 g:\heroproject\include\equipment.h
+	<list>
+	<string>
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<iostream>
+
+1443981697 g:\heroproject\include\super.h
+	<list>
+	<string>
+	<iostream>
+	<cmath>
+	<random>
+	"Power.h"
+	"Equipment.h"
+	"Location.h"
+	"RandomGeneratorHelper.h"
+
+1443987344 g:\heroproject\include\testsuper.h
+	<random>
+	"Super.h"
+	<fstream>
+
+1443924912 g:\heroproject\include\testpower.h
+	<random>
+	"Power.h"
+	<fstream>
+
+1443928974 g:\heroproject\include\testequipment.h
+	"Equipment.h"
+
+1443991385 source:g:\heroproject\src\equipment.cpp
+	"Equipment.h"
+	<sstream>
+
+1443819276 source:g:\heroproject\src\location.cpp
+	"Location.h"
+
+1443991490 source:g:\heroproject\src\power.cpp
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<sstream>
+
+1443819965 source:g:\heroproject\src\randomgeneratorhelper.cpp
+	"RandomGeneratorHelper.h"
+
+1443991470 source:g:\heroproject\src\super.cpp
+	"Super.h"
+	<sstream>
+
+1443929345 source:g:\heroproject\src\testequipment.cpp
+	"TestEquipment.h"
+
+1443929961 source:g:\heroproject\src\testpower.cpp
+	"TestPower.h"
+
+1443987407 source:g:\heroproject\src\testsuper.cpp
+	"TestSuper.h"
+
+1443990900 source:c:\users\meysamabl\downloads\heroproject\main.cpp
+	<iostream>
+	"Location.h"
+	"Power.h"
+	"Equipment.h"
+	"Super.h"
+	<sstream>
+	<fstream>
+	<string>
+	<thread>
+	<chrono>
+	"TestSuper.h"
+	"TestPower.h"
+	"TestEquipment.h"
+
+1443814534 c:\users\meysamabl\downloads\heroproject\include\location.h
+	<iostream>
+	<vector>
+	"RandomGeneratorHelper.h"
+
+1443991060 c:\users\meysamabl\downloads\heroproject\include\randomgeneratorhelper.h
+	<vector>
+	<algorithm>
+	<random>
+	<sstream>
+
+1443922894 c:\users\meysamabl\downloads\heroproject\include\power.h
+	<iostream>
+	<vector>
+	<exception>
+	<string>
+	<random>
+
+1443928086 c:\users\meysamabl\downloads\heroproject\include\equipment.h
+	<list>
+	<string>
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<iostream>
+
+1443981698 c:\users\meysamabl\downloads\heroproject\include\super.h
+	<list>
+	<string>
+	<iostream>
+	<cmath>
+	<random>
+	"Power.h"
+	"Equipment.h"
+	"Location.h"
+	"RandomGeneratorHelper.h"
+
+1443987346 c:\users\meysamabl\downloads\heroproject\include\testsuper.h
+	<random>
+	"Super.h"
+	<fstream>
+
+1443924914 c:\users\meysamabl\downloads\heroproject\include\testpower.h
+	<random>
+	"Power.h"
+	<fstream>
+
+1443928976 c:\users\meysamabl\downloads\heroproject\include\testequipment.h
+	"Equipment.h"
+
+1443991386 source:c:\users\meysamabl\downloads\heroproject\src\equipment.cpp
+	"Equipment.h"
+	<sstream>
+
+1443819278 source:c:\users\meysamabl\downloads\heroproject\src\location.cpp
+	"Location.h"
+
+1443991492 source:c:\users\meysamabl\downloads\heroproject\src\power.cpp
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<sstream>
+
+1443819966 source:c:\users\meysamabl\downloads\heroproject\src\randomgeneratorhelper.cpp
+	"RandomGeneratorHelper.h"
+
+1443991472 source:c:\users\meysamabl\downloads\heroproject\src\super.cpp
+	"Super.h"
+	<sstream>
+
+1443929346 source:c:\users\meysamabl\downloads\heroproject\src\testequipment.cpp
+	"TestEquipment.h"
+
+1443929962 source:c:\users\meysamabl\downloads\heroproject\src\testpower.cpp
+	"TestPower.h"
+
+1443987408 source:c:\users\meysamabl\downloads\heroproject\src\testsuper.cpp
+	"TestSuper.h"
+
+1444374351 source:g:\personal\heroproject\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	"Location.h"
+	"Power.h"
+	"Super.h"
+	"TestSuper.h"
+	"TestPower.h"
+
+1444373328 g:\personal\heroproject\include\location.h
+	<iostream>
+	<vector>
+	"RandomGeneratorHelper.h"
+
+1444373508 g:\personal\heroproject\include\randomgeneratorhelper.h
+	<vector>
+	<algorithm>
+	<random>
+
+1444373423 g:\personal\heroproject\include\power.h
+	<iostream>
+	<vector>
+	<exception>
+	<string>
+	<sstream>
+	"RandomGeneratorHelper.h"
+
+1443931686 g:\personal\heroproject\include\equipment.h
+	<list>
+	<string>
+	"Power.h"
+	"RandomGeneratorHelper.h"
+	<iostream>
+
+1444373478 g:\personal\heroproject\include\super.h
+	<list>
+	<string>
+	<iostream>
+	<sstream>
+	"Power.h"
+	"Location.h"
+	"RandomGeneratorHelper.h"
+
+1444368366 g:\personal\heroproject\include\testsuper.h
+	<random>
+	"Super.h"
+	<fstream>
+
+1444369133 g:\personal\heroproject\include\testpower.h
+	<random>
+	"Power.h"
+	<fstream>
+
+1443928976 g:\personal\heroproject\include\testequipment.h
+	"Equipment.h"
+
+1443991386 source:g:\personal\heroproject\src\equipment.cpp
+	"Equipment.h"
+	<sstream>
+
+1444370564 source:g:\personal\heroproject\src\location.cpp
+	"Location.h"
+
+1444373390 source:g:\personal\heroproject\src\power.cpp
+	"Power.h"
+
+1444371073 source:g:\personal\heroproject\src\randomgeneratorhelper.cpp
+	"RandomGeneratorHelper.h"
+
+1444396544 source:g:\personal\heroproject\src\super.cpp
+	"Super.h"
+
+1443929346 source:g:\personal\heroproject\src\testequipment.cpp
+	"TestEquipment.h"
+
+1444369106 source:g:\personal\heroproject\src\testpower.cpp
+	"TestPower.h"
+
+1444369159 source:g:\personal\heroproject\src\testsuper.cpp
+	"TestSuper.h"
+
+1444370564 source:g:\personal\heroproject_lastversion\heroproject\src\location.cpp
+	"Location.h"
+
+1444373328 g:\personal\heroproject_lastversion\heroproject\include\location.h
+	<iostream>
+	<vector>
+	"RandomGeneratorHelper.h"
+
+1444373508 g:\personal\heroproject_lastversion\heroproject\include\randomgeneratorhelper.h
+	<vector>
+	<algorithm>
+	<random>
+
+1444373390 source:g:\personal\heroproject_lastversion\heroproject\src\power.cpp
+	"Power.h"
+
+1444373423 g:\personal\heroproject_lastversion\heroproject\include\power.h
+	<iostream>
+	<vector>
+	<exception>
+	<string>
+	<sstream>
+	"RandomGeneratorHelper.h"
+
+1444371073 source:g:\personal\heroproject_lastversion\heroproject\src\randomgeneratorhelper.cpp
+	"RandomGeneratorHelper.h"
+
+1444857785 source:g:\personal\heroproject_lastversion\heroproject\src\super.cpp
+	"Super.h"
+
+1444373478 g:\personal\heroproject_lastversion\heroproject\include\super.h
+	<list>
+	<string>
+	<iostream>
+	<sstream>
+	"Power.h"
+	"Location.h"
+	"RandomGeneratorHelper.h"
+
+1444369106 source:g:\personal\heroproject_lastversion\heroproject\src\testpower.cpp
+	"TestPower.h"
+
+1444369133 g:\personal\heroproject_lastversion\heroproject\include\testpower.h
+	<random>
+	"Power.h"
+	<fstream>
+
+1444369159 source:g:\personal\heroproject_lastversion\heroproject\src\testsuper.cpp
+	"TestSuper.h"
+
+1444368366 g:\personal\heroproject_lastversion\heroproject\include\testsuper.h
+	<random>
+	"Super.h"
+	<fstream>
+
+1444858357 source:g:\personal\heroproject_lastversion\heroproject\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	"Location.h"
+	"Power.h"
+	"Super.h"
+	"TestSuper.h"
+	"TestPower.h"
+
